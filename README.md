@@ -5,6 +5,24 @@ All the transaction details can be fetched from the blockchain.
 
 The system will ensure security and reliability for the user.
 
+# Technological Stack used:
+
+# Front-end
+React Libraries used in react : 
+Vite
+Tailwind CSS
+Ethers
+React Icons
+Giphy api
+
+# Back-end
+Solidity Libraries used:
+Hardhat-ethers
+Hardhat-Waffle
+Alchemy api
+Ropsten Test Network
+MetaMask
+
 # Frontend of the system
 ![1ethar](https://user-images.githubusercontent.com/86364520/188325509-3e86e944-3887-430b-b7b3-8f1ab7bc232e.jpg)
 
